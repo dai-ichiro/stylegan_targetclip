@@ -9,3 +9,8 @@ download stylegan2-ffhq-config-f.pt
 
 https://drive.google.com/file/d/1EM87UquaoQmk17Q8d5kYIAHqu0dkYqdT
 
+
+How to use
+
+https://touch-sp.hatenablog.com/entry/2021/10/31/133728
+
